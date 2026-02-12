@@ -64,11 +64,11 @@ ON s.product_key = p.product_key
 WHERE order_date IS NOT NULL -- only consider valid sales dates
 ),
 
-aggregated_query AS
+product_aggregation AS
 
 /*
 -------------------------------------------------------------------------------
-2) Customer Aggregations: Summarizes key metrics at the customer level
+2) Product Aggregations: Summarizes key metrics at the product level
 -------------------------------------------------------------------------------
 */
 
@@ -128,4 +128,4 @@ SELECT
         WHEN lifespan = 0 THEN total_sales
         ELSE total_sales / lifespan
     END AS avg_monthly_revenue
-FROM aggregated_query;
+FROM product_aggregation;

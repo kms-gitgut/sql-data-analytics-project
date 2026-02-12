@@ -16,18 +16,18 @@ USE master;
 GO
 
 -- Drop and recreate the 'DataWarehouseAnalytics' database
-IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'DataWarehouseAnalytics')
+IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'DataWarehouse')
 BEGIN
-    ALTER DATABASE DataWarehouseAnalytics SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
-    DROP DATABASE DataWarehouseAnalytics;
+    ALTER DATABASE DataWarehouse SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+    DROP DATABASE DataWarehouse;
 END;
 GO
 
 -- Create the 'DataWarehouseAnalytics' database
-CREATE DATABASE DataWarehouseAnalytics;
+CREATE DATABASE DataWarehouse;
 GO
 
-USE DataWarehouseAnalytics;
+USE DataWarehouse;
 GO
 
 -- Create Schemas
@@ -112,3 +112,4 @@ WITH (
 	TABLOCK
 );
 GO
+

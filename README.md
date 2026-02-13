@@ -25,7 +25,7 @@ Project Overview:
  
 Analytics Overview:
  
-![Analytics Overview](docs/images/sql_data_analytics.png)
+cc
 
 ---
 ## 🚀 Project Requirements

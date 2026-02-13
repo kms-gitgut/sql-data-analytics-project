@@ -71,10 +71,10 @@ data-warehouse-project/
 │
 ├── docs/                                                 # Project documentation details
 |   ├── images
-│     ├── sql_data_analytics                              # PNG file shows the analytics details
+│     ├── sql_data_analytics_details                      # PNG file shows the analytics details
 │     ├── sql_projects_(data_analytics_scope)             # PNG file shows the project's overview and the scope of this part
 |   ├── draw(io) templates
-│     ├── sql_data_analytics.drawio                       # Draw.io file shows the analytics details
+│     ├── sql_data_analytics_details.drawio               # Draw.io file shows the analytics details
 │     ├── sql_projects_(data_analytics_scope).drawio      # Draw.io file shows the project's overview and the scope of this part
 │   ├── requirements.md                                   # Consistent naming guidelines for tables, columns, and files
 │

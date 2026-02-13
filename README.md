@@ -21,7 +21,7 @@ This project involves:
 
 Project Overview:
  
-![Project Overview](docs/images/sql_projects_(data_analytics_scope).png)
+cc
  
 Analytics Overview:
  

@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <mxCell id="NlG8nwzgm0xcBrS9fxw--2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;dashed=1;strokeWidth=3;strokeColor=#B3B3B3;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="1099.29" y="940" as="sourcePoint" />
+            <mxPoint x="1099" y="960" as="sourcePoint" />
             <mxPoint x="1099.29" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -66,10 +66,10 @@
         <mxCell id="4Ib-zJSb1OwHmkoE9IHq-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=24;textShadow=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;" value="&quot;Organize, Structure, Prepare&quot;&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;ETL/ELT Processing,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data architecture,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data integration,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data cleansing,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data load,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data Modeling.&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="400" width="330" x="120" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="4Ib-zJSb1OwHmkoE9IHq-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=24;textShadow=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;" value="&quot;Understand the data&quot;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Basic queries,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data profiling,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Simple aggregations,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;subquery.&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+        <mxCell id="4Ib-zJSb1OwHmkoE9IHq-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=24;textShadow=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;" value="&quot;Understand the data&quot;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Basic queries,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Data profiling,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Simple aggregations,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Subquery.&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="400" width="330" x="665" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="4Ib-zJSb1OwHmkoE9IHq-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=24;textShadow=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;" value="&quot;Answer Business Questions&quot;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Complex Queries,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Widow functions,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;CTE,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Suqeries,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Reports.&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+        <mxCell id="4Ib-zJSb1OwHmkoE9IHq-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=24;textShadow=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=8 8;" value="&quot;Answer Business Questions&quot;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Complex Queries,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Widow functions,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;CTE,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Subqeries,&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Reports.&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="400" width="330" x="1200" y="340" as="geometry" />
         </mxCell>
         <mxCell id="4Ib-zJSb1OwHmkoE9IHq-27" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;dashed=1;strokeWidth=3;strokeColor=#B3B3B3;" value="">

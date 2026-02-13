@@ -30,13 +30,6 @@ Analytics Overview:
 ---
 ## 🚀 Project Requirements
 
-### Building the Data Warehouse (Data Engineering)
-
-For details, refer to [docs/requirements.md](docs/requirements.md).
-
-**[Git sql-data-warehouse-project Repository](https://github.com/kms-gitgut/sql-data-warehouse-project/tree/main)
-
-
 ### BI: Analytics & Reporting (Data Analysis)
 
 #### Objective
@@ -48,6 +41,13 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
 For more details, refer to [docs/requirements.md](docs/requirements.md).
+
+
+### Building the Data Warehouse (Data Engineering)
+
+For details on this part of the project, please go to the following Git Hub Repository:
+
+**[Git sql-data-warehouse-project Repository](https://github.com/kms-gitgut/sql-data-warehouse-project/tree/main)
 
 ---
 

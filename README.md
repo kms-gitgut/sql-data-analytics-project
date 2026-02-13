@@ -26,6 +26,13 @@ This project involves:
 ---
 ## 🚀 Project Requirements
 
+### Building the Data Warehouse (Data Engineering)
+
+For details, refer to [docs/requirements.md](docs/requirements.md).
+
+**[Git sql-data-warehouse-project Repository](https://github.com/kms-gitgut/sql-data-warehouse-project/tree/main)
+
+
 ### BI: Analytics & Reporting (Data Analysis)
 
 #### Objective
@@ -52,6 +59,43 @@ all tools are free
 - **[Notion](https://www.notion.com/):** All-in-one tool for project management and organization.
 
 ---
+## 📂 Repository Structure
+```
+data-warehouse-project/
+│
+├── datasets/                            # Raw datasets used for the project (ERP and CRM data)
+│
+├── docs/                                # Project documentation and architecture details
+|   ├── images
+│     ├── etl_methods                    # PNG file shows all different techniquies and methods of ETL
+│     ├── data_architecture              # PNG file shows the project's architecture
+│     ├── data_flow_diagram              # PNG file for the data flow diagram
+│     ├── data_mart                      # PNG file for data models (star schema)
+│     ├── integration_model              # PNG file with information how to connect tables
+│     ├── layer_details                  # PNG file with each layer detailed information
+|   ├── draw(io) templates
+│     ├── etl_methods.drawio            # Draw.io file shows all different techniquies and methods of ETL
+│     ├── data_architecture.drawio      # Draw.io file shows the project's architecture
+│     ├── data_flow_diagram.drawio      # Draw.io file for the data flow diagram
+│     ├── data_mart.drawio              # Draw.io file for data models (star schema)
+│     ├── integration_model.drawio      # Draw.io file with information how to connect tables
+│     ├── layer_details.drawio          # Draw.io file with each layer detailed information
+│   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
+│   ├── requirements.md                 # Consistent naming guidelines for tables, columns, and files
+│
+├── scripts/                            # SQL scripts for ETL and transformations
+│   ├── bronze/                         # Scripts for extracting and loading raw data
+│   ├── silver/                         # Scripts for cleaning and transforming data
+│   ├── gold/                           # Scripts for creating analytical models
+│
+├── tests/                              # Test scripts and quality files
+│
+├── README.md                           # Project overview and instructions
+├── LICENSE                             # License information for the repository
+├── .gitignore                          # Files and directories to be ignored by Git
+└── requirements.txt                    # Dependencies and requirements for the project
+
+```
 
 ---
 

@@ -67,37 +67,22 @@ all tools are free
 ```
 data-warehouse-project/
 │
-├── datasets/                            # Raw datasets used for the project (ERP and CRM data)
+├── datasets/                                             # Datasets from the previous part of the project (ERP and CRM data)
 │
-├── docs/                                # Project documentation and architecture details
+├── docs/                                                 # Project documentation details
 |   ├── images
-│     ├── etl_methods                    # PNG file shows all different techniquies and methods of ETL
-│     ├── data_architecture              # PNG file shows the project's architecture
-│     ├── data_flow_diagram              # PNG file for the data flow diagram
-│     ├── data_mart                      # PNG file for data models (star schema)
-│     ├── integration_model              # PNG file with information how to connect tables
-│     ├── layer_details                  # PNG file with each layer detailed information
+│     ├── sql_data_analytics                              # PNG file shows the analytics details
+│     ├── sql_projects_(data_analytics_scope)             # PNG file shows the project's overview and the scope of this part
 |   ├── draw(io) templates
-│     ├── etl_methods.drawio            # Draw.io file shows all different techniquies and methods of ETL
-│     ├── data_architecture.drawio      # Draw.io file shows the project's architecture
-│     ├── data_flow_diagram.drawio      # Draw.io file for the data flow diagram
-│     ├── data_mart.drawio              # Draw.io file for data models (star schema)
-│     ├── integration_model.drawio      # Draw.io file with information how to connect tables
-│     ├── layer_details.drawio          # Draw.io file with each layer detailed information
-│   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── requirements.md                 # Consistent naming guidelines for tables, columns, and files
+│     ├── sql_data_analytics.drawio                       # Draw.io file shows the analytics details
+│     ├── sql_projects_(data_analytics_scope).drawio      # Draw.io file shows the project's overview and the scope of this part
+│   ├── requirements.md                                   # Consistent naming guidelines for tables, columns, and files
 │
-├── scripts/                            # SQL scripts for ETL and transformations
-│   ├── bronze/                         # Scripts for extracting and loading raw data
-│   ├── silver/                         # Scripts for cleaning and transforming data
-│   ├── gold/                           # Scripts for creating analytical models
+├── scripts/                                              # SQL scripts for ETL and transformations
 │
-├── tests/                              # Test scripts and quality files
 │
-├── README.md                           # Project overview and instructions
-├── LICENSE                             # License information for the repository
-├── .gitignore                          # Files and directories to be ignored by Git
-└── requirements.txt                    # Dependencies and requirements for the project
+├── README.md                                             # Project overview and instructions
+├── LICENSE                                               # License information for the repository
 
 ```
 

@@ -19,8 +19,10 @@ This project involves:
 - Data Segmentation,
 - Customer and Product report.
 
+Project Overview:
 ![Project Overview](docs/images/sql_projects_(data_analytics_scope).png)
-
+ 
+Analytics Overview:
 ![Analytics Overview](docs/images/sql_data_analytics.png)
 
 ---

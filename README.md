@@ -19,9 +19,9 @@ This project involves:
 - Data Segmentation,
 - Customer and Product report.
 
-![Project Overview](docs/images/sql_projects_(data_warehouse_scope).png)
+![Project Overview](docs/images/sql_projects_(data_analytics_scope).png)
 
-![Project Overview](docs/images/sql_projects_(data_warehouse_scope).png)
+![Analytics Overview](docs/images/sql_data_analytics.png)
 
 ---
 ## 🚀 Project Requirements
